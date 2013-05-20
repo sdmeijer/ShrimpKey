@@ -6,6 +6,20 @@ An extended [Shrimp](http://www.shrimping.it/blog/shrimp) which acts like a MaKe
 
 See this video on [Vimeo](http://bit.ly/116lLel).
 
+
+Contact
+-------
+If you make a ShrimpKey, please let me know!
+
+Twitter: @fromScratchEd
+
+E-mail: info {at} ScratchEd {dot} eu
+
+Link
+----
+Please use this link when you want to redirect to my ShrimpKey-pages:
+http://bit.ly/17V8SfT
+
 Repository Contents
 -------------------
 * **/Layout** - Hardware files
