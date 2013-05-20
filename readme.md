@@ -18,13 +18,14 @@ E-mail: info {at} ScratchEd {dot} eu
 Link
 ----
 Please use this link when you want to link to my ShrimpKey-pages (GitHub, Vimeo, etc.):
+
 http://bit.ly/17V8SfT
 
 Repository Contents
 -------------------
 * **/Layout** - Hardware files
 * **/ShrimpKey** - Firmware files
-* **/UsbKeyboard** - Library for Arduino
+* **/UsbKeyboard** - Library for Arduino IDE
 
 Recipe
 ------
