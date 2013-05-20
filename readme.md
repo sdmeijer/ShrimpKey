@@ -3,7 +3,8 @@ ShrimpKey
 *Inspired by Shrimping.it and MaKey Makey*
 
 An extended [Shrimp](http://www.shrimping.it/blog/shrimp) which acts like a MaKey Makey. 
-See this video on [Vimeo](http://bit.ly/116lLel)
+
+See this video on [Vimeo](http://bit.ly/116lLel).
 
 Repository Contents
 -------------------
