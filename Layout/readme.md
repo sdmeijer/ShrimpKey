@@ -48,9 +48,8 @@ Making the ShrimpKey
 
 If you've ordered the stripboard from Tayda, you can use the design in **ShrimpKey.pdf** to build the ShrimpKey.
 
-Start with cutting (with a sharp knife) the red line (not the red crosses!) on the **copper** side of the stripboard (you only have to cut through the copper, not the whole stripboard).
-
-The red line and crosses are for the **copper**-side (back) of the stripboard. Make sure you mirror them when you're cutting!
+Start with cutting (with a sharp knife) the red line (not the red crosses!) on the **copper** side of the stripboard (you only have to cut through the copper, not the whole stripboard).  
+(The red line and crosses are for the **copper**-side (back) of the stripboard. Make sure you mirror them when you're cutting!)
 
 After that, place everything on the **non-copper** side. You then solder them on the **copper** side.
 
