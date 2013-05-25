@@ -29,7 +29,7 @@ Repository Contents
 
 Recipe
 ------
-Make the ShrimpKey (see **/Layout/ShrimpKey.pdf**).
+Make the ShrimpKey (see **/Layout**).
 
 Copy the folder **/UsbKeyboard** (and contents) to the libaries-folder of Arduino IDE.
 
