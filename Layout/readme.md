@@ -41,3 +41,21 @@ And you also need to upload the firmware to it (you then also need a CP2102: htt
 
 If you don't know how to burn a BootLoader to it and/or you don't know how to load the firmware, please contact me. If I have ATMEGA328P-PU's in stock, I can send you one with the right BootLoader and Firmware (3,50 EUR + shipping).
 
+
+Making the ShrimpKey
+--------------------
+
+If you've ordered the stripboard from Tayda, you can use the design in **Layout.pdf** to build the ShrimpKey.
+
+Start with cutting (with a sharp knife) the red line (not the red crosses!) on the copper side of the stripboard (you only have to cut through the copper, not the whole stripboard).
+
+After that, place everything on the non-copper side. You then solder them on the copper side.
+
+The *1N4148 diode*, *3.6V Zenerdiodes* and *10uF condensator* have polarity. 
+The diodes have a black line on them, these lines are marked in the layout.
+The condensator has a mark for the minus-side, on the layout you can find a - and a +.
+
+All other components can be connected both ways.
+
+After you've soldered everything use a 3.5mm metal drillbit and place it in the holes marked with a red cross. Turn it manually a couple of times until the copper is removed on that spot.
+
