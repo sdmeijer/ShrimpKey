@@ -45,7 +45,7 @@ If you don't know how to burn a BootLoader to it and/or you don't know how to lo
 Making the ShrimpKey
 --------------------
 
-If you've ordered the stripboard from Tayda, you can use the design in **Layout.pdf** to build the ShrimpKey.
+If you've ordered the stripboard from Tayda, you can use the design in **ShrimpKey.pdf** to build the ShrimpKey.
 
 Start with cutting (with a sharp knife) the red line (not the red crosses!) on the copper side of the stripboard (you only have to cut through the copper, not the whole stripboard).
 
