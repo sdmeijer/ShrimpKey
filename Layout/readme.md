@@ -7,6 +7,8 @@ Components
 
 Most components can be ordered from your local electronics store or from Tayda Electronics (https://www.taydaelectronics.com/) (probably cheaper).
 
+[A-xxxx = Tayda partno.]
+
 * 1x  A-854	ATMEGA328P-PU
 * 2x  A-523	22pF condensator
 * 4x  A-4008	100nF condensator
