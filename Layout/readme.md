@@ -7,7 +7,6 @@ Components
 
 Most components can be ordered from your local electronics store or from Tayda Electronics (https://www.taydaelectronics.com/) (probably cheaper).
 
-Some components need to be ordered in volumes of 10, so the total cost are a bit higher.
 * 1x  A-854	ATMEGA328P-PU
 * 2x  A-523	22pF condensator
 * 4x  A-4008	100nF condensator
@@ -29,7 +28,7 @@ Some components need to be ordered in volumes of 10, so the total cost are a bit
 * 1x  A-437	USB-B female connector
 * 1x  A-057	LED (green)
 
-Total cost: approx. $ 5.70 + shipping
+Total cost: approx. $ 5.70 + shipping (Some components need to be ordered in volumes of 10, so the total costs are a bit higher.)
 
 You also need:
 * 2x 		3.6V (≤ 0.5W) Zenerdiode (find these in your local electronics store)
