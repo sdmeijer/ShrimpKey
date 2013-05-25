@@ -8,31 +8,31 @@ Components
 Most components can be ordered from your local electronics store or from Tayda Electronics (https://www.taydaelectronics.com/) (probably cheaper).
 
 Some components need to be ordered in volumes of 10, so the total cost are a bit higher.
-*1x  A-854	ATMEGA328P-PU
-*2x  A-523	22pF condensator
-*4x  A-4008	100nF condensator
-*1x  A-4534	10uF condensator
-*1x  A-2115	10kOhm resistor
-*1x  A-157	1N4148 diode
-*1x  A-230	16000 MHz crystal
-*1x  A-5144	button
-*2x  A-2251	100Ohm resistor
-*1x  A-5031	Stripboard
-*1x  A-407	LED (blue)
-*1x  A-197	pin header male
-*1x  A-196	pin header female
-*1x  A-199	pin header male (angle)
-*2x  A-4999	wire (blue)
-*18x A-2063	10MOhm resistor
-*1x  A-2087	2.2kOhm resistor
-*2x  A-2086	68Ohm resistor
-*1x  A-437	USB-B female connector
-*1x  A-057	LED (green)
+* 1x  A-854	ATMEGA328P-PU
+* 2x  A-523	22pF condensator
+* 4x  A-4008	100nF condensator
+* 1x  A-4534	10uF condensator
+* 1x  A-2115	10kOhm resistor
+* 1x  A-157	1N4148 diode
+* 1x  A-230	16000 MHz crystal
+* 1x  A-5144	button
+* 2x  A-2251	100Ohm resistor
+* 1x  A-5031	Stripboard
+* 1x  A-407	LED (blue)
+* 1x  A-197	pin header male
+* 1x  A-196	pin header female
+* 1x  A-199	pin header male (angle)
+* 2x  A-4999	wire (blue)
+* 18x A-2063	10MOhm resistor
+* 1x  A-2087	2.2kOhm resistor
+* 2x  A-2086	68Ohm resistor
+* 1x  A-437	USB-B female connector
+* 1x  A-057	LED (green)
 
 Total cost: approx. $ 5.70 + shipping
 
 You also need:
-*2x 		3.6V (≤ 0.5W) Zenerdiode (find these in your local electronics store)
+* 2x 		3.6V (≤ 0.5W) Zenerdiode (find these in your local electronics store)
 
 
 The ATMEGA328P-PU's from Tayda don't have a BootLoader on it.
