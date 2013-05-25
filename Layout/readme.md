@@ -36,10 +36,11 @@ You also need:
 * 2x 		3.6V (≤ 0.5W) Zenerdiode (find these in your local electronics store)
 
 
-The ATMEGA328P-PU's from Tayda don't have a BootLoader on it.
-And you also need to upload the firmware to it (you then also need a CP2102: http://www.aliexpress.com/item/New-Shop-Sale-5pcs-lot-CP2102-Serial-Converter-USB-2-0-To-TTL-UART-6PIN-Module/623537804.html).
+The ATMEGA328P-PU's from Tayda don't have a BootLoader on it.  
+And you also need to upload the firmware to it (you then also need a [CP2102](http://www.aliexpress.com/item/New-Shop-Sale-5pcs-lot-CP2102-Serial-Converter-USB-2-0-To-TTL-UART-6PIN-Module/623537804.html).
 
-If you don't know how to burn a BootLoader to it and/or you don't know how to load the firmware, please contact me. If I have ATMEGA328P-PU's in stock, I can send you one with the right BootLoader and Firmware (3,50 EUR + shipping).
+If you don't know how to burn a BootLoader to it and/or you don't know how to load the firmware, please contact me.  
+If I have ATMEGA328P-PU's in stock, I can send you one with the right BootLoader and Firmware (3,50 EUR + shipping).
 
 
 Making the ShrimpKey
@@ -47,12 +48,14 @@ Making the ShrimpKey
 
 If you've ordered the stripboard from Tayda, you can use the design in **ShrimpKey.pdf** to build the ShrimpKey.
 
-Start with cutting (with a sharp knife) the red line (not the red crosses!) on the copper side of the stripboard (you only have to cut through the copper, not the whole stripboard).
+Start with cutting (with a sharp knife) the red line (not the red crosses!) on the **copper** side of the stripboard (you only have to cut through the copper, not the whole stripboard).
 
-After that, place everything on the non-copper side. You then solder them on the copper side.
+The red line and crosses are for the **copper**-side (back) of the stripboard. Make sure you mirror them when you're cutting!
 
-The *1N4148 diode*, *3.6V Zenerdiodes* and *10uF condensator* have polarity. 
-The diodes have a black line on them, these lines are marked in the layout.
+After that, place everything on the **non-copper** side. You then solder them on the **copper** side.
+
+The *1N4148 diode*, *3.6V Zenerdiodes* and *10uF condensator* have polarity.  
+The diodes have a black line on them, these lines are marked in the layout.  
 The condensator has a mark for the minus-side, on the layout you can find a - and a +.
 
 All other components can be connected both ways.
