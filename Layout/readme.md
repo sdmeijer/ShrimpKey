@@ -37,7 +37,7 @@ You also need:
 
 
 The ATMEGA328P-PU's from Tayda don't have a BootLoader on it.  
-And you also need to upload the firmware to it (you then also need a [CP2102](http://www.aliexpress.com/item/New-Shop-Sale-5pcs-lot-CP2102-Serial-Converter-USB-2-0-To-TTL-UART-6PIN-Module/623537804.html).
+And you also need to upload the firmware to it (you then also need a [CP2102](http://www.aliexpress.com/item/New-Shop-Sale-5pcs-lot-CP2102-Serial-Converter-USB-2-0-To-TTL-UART-6PIN-Module/623537804.html)).
 
 If you don't know how to burn a BootLoader to it and/or you don't know how to load the firmware, please contact me.  
 If I have ATMEGA328P-PU's in stock, I can send you one with the right BootLoader and Firmware (3,50 EUR + shipping).
@@ -59,5 +59,5 @@ The condensator has a mark for the minus-side, on the layout you can find a - an
 
 All other components can be connected both ways.
 
-After you've soldered everything use a 3.5mm metal drillbit and place it in the holes marked with a red cross. Turn it manually a couple of times until the copper is removed on that spot.
+After you've soldered everything use a 3.5mm drillbit (for metal) and place it in the holes marked with a red cross. Turn it manually a couple of times until the copper is removed on that spot.
 
