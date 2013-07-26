@@ -31,7 +31,7 @@ Recipe
 ------
 Make the ShrimpKey (see **/Layout**).
 
-Copy the folder **/UsbKeyboard** (and contents) to the libaries-folder of Arduino IDE.
+Copy the folder **/UsbKeyboard** (and contents) to the libaries-folder of Arduino IDE (v1.0.4 or higher).
 
 Open **/ShrimpKey/ShrimpKey.ino** in Arduino IDE (make sure that settings.h is also loaded).
 
