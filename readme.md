@@ -1,3 +1,6 @@
+All information, including detailed building instructions, can be found on [fromScratchEd.nl](http://fromScratchEd.nl).
+
+
 ShrimpKey
 ===========
 *Inspired by Shrimping.it and MaKey Makey*
