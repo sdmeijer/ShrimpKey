@@ -122,8 +122,10 @@ PROGMEM char usbHidReportDescriptor[35] = { /* USB report descriptor */
 #define KEY_F11     68
 #define KEY_F12     69
 
-#define KEY_ARROW_LEFT 0x50
-
+#define KEY_ARROW_RIGHT	79
+#define KEY_ARROW_LEFT	80
+#define KEY_ARROW_DOWN	81
+#define KEY_ARROW_UP	82
 
 class UsbKeyboardDevice {
  public:
