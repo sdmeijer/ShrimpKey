@@ -1,4 +1,7 @@
-All information, including detailed building instructions, can be found on [fromScratchEd.nl](http://fromScratchEd.nl).
+August, 17 2013
+All information, including detailed building instructions, can now be found on [fromScratchEd.nl](http://fromScratchEd.nl).
+
+
 
 
 ShrimpKey
